@@ -1,0 +1,5 @@
+-=#Taxi Station#=-
+CarHyundaiBuilder,15
+CarRenoBuilder,22
+CarSkodaBuilder,17
+CarVolkswagenBuilder,10
